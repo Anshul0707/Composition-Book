@@ -4,6 +4,7 @@ import lombok.Data;
 
 @Data
 public class Publisher {
+
     private String Company;
     private String Since;
     private String Address;
